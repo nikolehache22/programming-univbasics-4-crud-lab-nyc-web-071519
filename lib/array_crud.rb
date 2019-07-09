@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   my_array = ["great"]
-  
+  my_array[0] = ["totally"]
 end
